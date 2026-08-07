@@ -184,8 +184,8 @@ function TransactionGrid({
                   />
 
                   <div className="mt-1 text-[10px] text-slate-400">
-                    ₹{formatAmount(transaction.currBalance)}
-                  </div>
+  ₹{formatAmount(transaction.currBalance)}
+   </div>
                 </td>
 
                 {/* STATUS */}
